@@ -1,5 +1,10 @@
 alias gs="git status"
-alias gl="git log"
-alias gln3="git log -n3"
-alias gistroy="git log --oneline"
 
+alias gl="git log"
+alias gln3="gl -n3"
+alias gistory="gl --oneline"
+
+alias gpr="git pull --rebase"
+
+alias gpo="git push origin"
+alias gpom="gpo master"
