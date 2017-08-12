@@ -1,0 +1,5 @@
+alias gs="git status"
+alias gl="git log"
+alias gln3="git log -n3"
+alias gistroy="git log --oneline"
+
